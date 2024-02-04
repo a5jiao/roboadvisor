@@ -13,9 +13,8 @@ Competition Overview:
 
 Date: Tuesday, December 9, 2023
 
-Description: The first-ever CFM course at the University of Waterloo concluded with a portfolio-generation competition. Teams of three first-year CFM students coded portfolio-creation applications in Python, selecting portfolios dynamically from an unknown list of stocks while meeting stringent admissibility criteria.
+Our first year CFM course at the University of Waterloo concluded with a portfolio-generation competition. Teams of three first-year CFM students coded portfolio-geneation applications in Python, selecting portfolios dynamically from an unknown list of stocks while meeting stringent admissibility criteria given out by Professor Thompson.
 
-Our Achievement:
 
 
 We are proud to present our winning code that demonstrates our innovative drive and technical expertise in the fintech field.
@@ -23,7 +22,6 @@ We are proud to present our winning code that demonstrates our innovative drive 
 Our code has generated a portfolio that has produced the best results in the history of the Computing and Financial Management Program!
 
 
-Explore:
 
 Dive into our solutions, learn from our approach, and see how we tackled the complexities of fintech in this exciting competition.
 
