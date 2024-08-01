@@ -1,6 +1,8 @@
 # roboadvisor
 Welcome to the official repository for the winning code of the CFM 101 Team Competition! 🏆
 
+This repository contains the original code with added modifications and enhancements to the portfolio optimization processes.
+
 Article can be read here: https://uwaterloo.ca/computing-financial-management/news/cfm-101-team-competition-winners-2024
 
 Team Members:
